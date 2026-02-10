@@ -1,4 +1,4 @@
-# CRUD em Java
+# CRUD Locadora
 
 Este é um projeto básico de CRUD (Create, Read, Update, Delete) de uma empresa Locadora de veículos fictícia desenvolvido em Java com conexão ao banco de dados MySQL. Ele pode ser usado como base para aplicações que necessitam de operações básicas de gerenciamento de dados.
 
