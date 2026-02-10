@@ -63,8 +63,9 @@ Este é um projeto básico de CRUD (Create, Read, Update, Delete) de uma empresa
 ## Como Usar
 
 1. Execute o programa via main.
-2. Navegue pelo menu para criar, visualizar, atualizar ou excluir registros.
-3. As operações serão refletidas diretamente no banco de dados.
+2. Utilize o usuário "Anderson" e a senha "Abreu" para entrar.
+3. Navegue pelo menu para criar, visualizar, atualizar ou excluir registros.
+4. As operações serão refletidas diretamente no banco de dados.
 
 ---
 
