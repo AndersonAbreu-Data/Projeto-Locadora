@@ -23,7 +23,7 @@ public class MenuGUI extends JFrame {
         painelTextos.setLayout(new BoxLayout(painelTextos, BoxLayout.Y_AXIS));
         painelTextos.setBackground(new Color(245, 245, 245));
         painelTextos.setBorder(BorderFactory.createEmptyBorder(0, 0, 20, 0));
-        JLabel lblSaudacao = new JLabel("OLÁ, DUDUCHI", JLabel.CENTER);
+        JLabel lblSaudacao = new JLabel("OLÁ, Anderson Abreu", JLabel.CENTER);
         lblSaudacao.setFont(new Font("Segoe UI", Font.BOLD, 36));
         lblSaudacao.setForeground(new Color(30, 144, 255));
         lblSaudacao.setAlignmentX(Component.CENTER_ALIGNMENT);
