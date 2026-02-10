@@ -57,7 +57,7 @@ public class LoginGUI extends JFrame {
                 String usuario = txtUsuario.getText();
                 String senha = new String(txtSenha.getPassword());
 
-                if ("Duduchi".equals(usuario) && "nota100".equals(senha)) {
+                if ("Anderson".equals(usuario) && "Abreu".equals(senha)) {
                     dispose();
                     new MenuGUI(); 
                 } else {
